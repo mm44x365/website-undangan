@@ -229,7 +229,7 @@
                         Putri Terakhir dari Pasangan <br>
                         <b>Bapak Asmin &amp; Ibu Ismiyati</b>
                     </p>
-                    <p class="m-0">Jl. Irian Jaya Gang Semampir, No.143, Rt.06 Rw.01, Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah</p>
+                    <p class="m-0">Jl. Irian Jaya Gang Semampir No.143 Rt.06 Rw.01 Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah.</p>
                 </div>
                 <div data-aos="fade-down-right" data-aos-easing="ease-out-cubic" data-aos-delay="100" data-aos-duration="1000" class="col-lg-6 text-center couples ">
                     <!-- <div class="circle-image">
@@ -243,7 +243,7 @@
                         Putra Pertama dari Pasangan <br>
                         <b>Bapak Kiswanto &amp; Ibu Agnes Sugiati</b>
                     </p>
-                    <p class="m-0">Jl. Makam Pahlawan, No.46, Rt.01 Rw.03, Desa Sungapan, Kec.Pemalang, Kab.Pemalang, Jawa Tengah</p>
+                    <p class="m-0">Jl. Makam Pahlawan No.46 Rt.01 Rw.03 Desa Sungapan, Kec.Pemalang, Kab.Pemalang, Jawa Tengah.</p>
                 </div>
             </div>
         </div>
@@ -264,7 +264,7 @@
                             </p>
                             <p class="desc-location">
                                 <b>Rumah Mempelai Wanita</b> <br>
-                                Jl. Irian Jaya Gang Semampir, No.143, Rt.06 Rw.01, Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah
+                                Jl. Irian Jaya Gang Semampir No.143 Rt.06 Rw.01 Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah.
                             </p>
                         </div>
                     </div>
@@ -280,7 +280,7 @@
                             </p>
                             <p class="desc-location">
                                 <b>Rumah Mempelai Wanita</b> <br>
-                                Jl. Irian Jaya Gang Semampir, No.143, Rt.06 Rw.01, Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah
+                                Jl. Irian Jaya Gang Semampir No.143 Rt.06 Rw.01 Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah.
                             </p>
                         </div>
                     </div>
