@@ -264,7 +264,7 @@
                             </p>
                             <p class="desc-location">
                                 <b>Rumah Mempelai Wanita</b> <br>
-                                Jl. Irian Jaya, Gang Semampir, Desa Banjaran Rt.06, Rw.01, No.143, Kec.Taman, Kab.Pemalang, Jawa Tengah
+                                Jl. Irian Jaya Gang Semampir, No.143, Rt.06 Rw.01, Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah
                             </p>
                         </div>
                     </div>
@@ -280,7 +280,7 @@
                             </p>
                             <p class="desc-location">
                                 <b>Rumah Mempelai Wanita</b> <br>
-                                Jl. Irian Jaya, Gang Semampir, Desa Banjaran Rt.06, Rw.01, No.143, Kec.Taman, Kab.Pemalang, Jawa Tengah
+                                Jl. Irian Jaya Gang Semampir, No.143, Rt.06 Rw.01, Desa Banjaran, Kec.Taman, Kab.Pemalang, Jawa Tengah
                             </p>
                         </div>
                     </div>
