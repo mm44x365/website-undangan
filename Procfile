@@ -1,1 +1,0 @@
-worker: python viewbot.py

@@ -7,19 +7,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- <link rel="shortcut icon" href="images/favicon.png"> -->
     <link rel="canonical" href="index.htm">
-    <meta name="title" content="Romeo &amp; Juliet Wedding">
+    <meta name="title" content="Yoga &amp; Fatikha Wedding">
     <meta name="author" content="anjay hapus credit">
     <meta name="language" content="Indonesia">
-    <meta name="description" content="Romeo &amp; Juliet are getting married on Sunday, 12 February 2023. Undangan pernikahan online by anjay hapus credit.com">
+    <meta name="description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2024.">
     <meta name="keywords" content="anjay hapus credit,undangan,pernikahan,online,website,wedding,invitation">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@anjay hapus credit">
     <meta name="twitter:creator" content="@anjay hapus credit">
     <meta property="og:url" content="https://demo.anjay hapus credit.com">
-    <meta property="og:title" content="Romeo &amp; Juliet Wedding">
-    <meta property="og:description" content="Romeo &amp; Juliet are getting married on Sunday, 12 February 2023. Undangan pernikahan online by anjay hapus credit.com">
-    <meta property="og:image" content="https://demo.anjay hapus credit.com/uploads/thumbs/gallery/1949d9111354e8962623050b26440179f5caddd0MS.jpg">
-    <meta property="og:image:alt" content="Romeo &amp; Juliet Wedding Image">
+    <meta property="og:title" content="Yoga &amp; Fatikha Wedding">
+    <meta property="og:description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2024.">
+    <meta property="og:image" content="uploads/original/gallery/bg1.jpg">
+    <meta property="og:image:alt" content="Yoga &amp; Fatikha Wedding Image">
     <title>Pernikahan Yoga &amp; Fatikha</title>
     <link rel="stylesheet" href="ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="ajax/libs/simplelightbox/1.17.3/simplelightbox.min.css">
@@ -196,7 +196,7 @@
                     <div class="item">
                         <p class="title-story">Tunangan</p>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                        <small><i><b>19 January 2020</b> - Rumah Juliet </i></small>
+                        <small><i><b>19 January 2020</b> - Rumah Fatikha </i></small>
                     </div>
                 </div>
             </div>
@@ -219,7 +219,7 @@
             <div class="row">
                 <div data-aos="fade-down-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000" class="col-lg-6 text-center couples  order-1 ">
                     <!-- <div class="circle-image">
-                        <img src="uploads/thumbs/couple/m4uyowvn1b.png" alt="Juliet Photo">
+                        <img src="uploads/thumbs/couple/m4uyowvn1b.png" alt="Fatikha Photo">
                     </div> -->
                     <h2>
                         - Fatikha -
@@ -233,10 +233,10 @@
                 </div>
                 <div data-aos="fade-down-right" data-aos-easing="ease-out-cubic" data-aos-delay="100" data-aos-duration="1000" class="col-lg-6 text-center couples ">
                     <!-- <div class="circle-image">
-                        <img src="uploads/thumbs/couple/lqtjmas1on.png" alt="Romeo Photo">
+                        <img src="uploads/thumbs/couple/lqtjmas1on.png" alt="Yoga Photo">
                     </div> -->
                     <h2>
-                        - Yoga a.k.a Bedjo a.k.a Joko - <br>
+                        - Yoga a.k.a Pratama a.k.a Max - <br>
                         <span class="d-block mt-3">Pratama Ardy Prayoga</span>
                     </h2>
                     <p>
