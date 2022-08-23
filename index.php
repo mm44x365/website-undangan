@@ -241,7 +241,7 @@
                     </h2>
                     <p>
                         Putra Pertama dari Pasangan <br>
-                        <b>Bapak Kiswanto &amp; Ibu Agnes</b>
+                        <b>Bapak Kiswanto &amp; Ibu Agnes Sugiati</b>
                     </p>
                     <p class="m-0">Jl. Makam Pahahlawan Rt.01, Rw.03, Desa Sungapan, Kec.Pemalang, Kab.Pemalang, Jawa Tengah</p>
                 </div>
