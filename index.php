@@ -222,12 +222,12 @@
                         <img src="uploads/thumbs/couple/m4uyowvn1b.png" alt="Fatikha Photo">
                     </div> -->
                     <h2>
-                        - Fatikha -
-                        <span class="d-block mt-3">Fatikhatul Ilma</span>
+                        Fatikhatul Ilma
+                        <!-- <span class="d-block mt-3">Fatikhatul Ilma</span> -->
                     </h2>
                     <p>
-                        Putri dari Pasangan <br>
-                        <b>Bapak Asmin &amp; Ibu Ismi</b>
+                        Putri Terakhir dari Pasangan <br>
+                        <b>Bapak Asmin &amp; Ibu Ismiyati</b>
                     </p>
                     <p class="m-0">Jl. Irian Jaya, Gang Semampir, Desa Banjaran Rt.06, Rw.01, No.143, Kec.Taman, Kab.Pemalang, Jawa Tengah</p>
                 </div>
@@ -236,11 +236,11 @@
                         <img src="uploads/thumbs/couple/lqtjmas1on.png" alt="Yoga Photo">
                     </div> -->
                     <h2>
-                        - Yoga a.k.a Pratama a.k.a Max - <br>
-                        <span class="d-block mt-3">Pratama Ardy Prayoga</span>
+                        Pratama Ardy Prayoga<br>
+                        <!-- <span class="d-block mt-3">Pratama Ardy Prayoga</span> -->
                     </h2>
                     <p>
-                        Putra dari Pasangan <br>
+                        Putra Pertama dari Pasangan <br>
                         <b>Bapak Kiswanto &amp; Ibu Agnes</b>
                     </p>
                     <p class="m-0">Jl. Makam Pahahlawan Rt.01, Rw.03, Desa Sungapan, Kec.Pemalang, Kab.Pemalang, Jawa Tengah</p>
@@ -259,7 +259,7 @@
                             <h3>Akad Nikah</h3>
                             <p>
                                 <b>Sabtu, 24 September 2022 <br>
-                                    08:00 - 11:30 WIB
+                                    09:00 - 10:00 WIB
                                 </b>
                             </p>
                             <p class="desc-location">
@@ -275,7 +275,7 @@
                             <h3>Resepsi</h3>
                             <p>
                                 <b>Sabtu, 24 September 2022 <br>
-                                    08:00 - Selesai
+                                    11:00 - Selesai
                                 </b>
                             </p>
                             <p class="desc-location">
@@ -604,7 +604,7 @@
             disableScroll: true,
             // disableRightClick: true
         });
-        var countDownDate = new Date("24 September 2022 09:00:00").getTime(),
+        var countDownDate = new Date("24 September 2022 11:00:00").getTime(),
             x = setInterval(function() {
                 var e = (new Date).getTime(),
                     n = countDownDate - e,
