@@ -396,8 +396,8 @@
         <div class="container">
             <img class="m-3" src="themes/twelve/images/content/flower.png" width="250">
             <div class="col-md-12 pt-4">
-                <p><span>"</span>Tidak ada solusi yang lebih baik bagi dua insan yang saling mencintai di banding pernikahan.<span>"</span></p>
-                <h3 class="caption mb-5">HR. Ibnu Majah</h3>
+                <p><span>"</span>Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir.<span>"</span></p>
+                <h3 class="caption mb-5">Q.S Ar-Rum Ayat 21</h3>
             </div>
         </div>
     </section>
