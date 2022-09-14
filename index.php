@@ -366,25 +366,25 @@
                         <a href="uploads/original/gallery/1.jpg"><img src="uploads/original/gallery/1.jpg" alt="Gallery 2" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="200">
-                        <a href="uploads/original/gallery/5.jpg"><img src="uploads/original/gallery/5.jpg" alt="Gallery 2" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/2.jpg"><img src="uploads/original/gallery/2.jpg" alt="Gallery 2" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="300">
-                        <a href="uploads/original/gallery/8.jpg"><img src="uploads/original/gallery/8.jpg" alt="Gallery 3" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/3.jpg"><img src="uploads/original/gallery/3.jpg" alt="Gallery 3" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="400">
-                        <a href="uploads/original/gallery/3.jpg"><img src="uploads/original/gallery/3.jpg" alt="Gallery 4" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/4.jpg"><img src="uploads/original/gallery/4.jpg" alt="Gallery 4" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="500">
-                        <a href="uploads/original/gallery/4.jpg"><img src="uploads/original/gallery/4.jpg" alt="Gallery 5" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/5.jpg"><img src="uploads/original/gallery/5.jpg" alt="Gallery 5" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="600">
-                        <a href="uploads/original/gallery/7.jpg"><img src="uploads/original/gallery/7.jpg" alt="Gallery 6" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/6.jpg"><img src="uploads/original/gallery/6.jpg" alt="Gallery 6" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="700">
-                        <a href="uploads/original/gallery/5.jpg"><img src="uploads/original/gallery/5.jpg" alt="Gallery 7" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/7.jpg"><img src="uploads/original/gallery/7.jpg" alt="Gallery 7" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="800">
-                        <a href="uploads/original/gallery/6.jpg"><img src="uploads/original/gallery/6.jpg" alt="Gallery 8" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/8.jpg"><img src="uploads/original/gallery/8.jpg" alt="Gallery 8" class="img-fluid"></a>
                     </div>
                 </div>
             </div>
