@@ -10,14 +10,14 @@
     <meta name="title" content="Yoga &amp; Fatikha Wedding">
     <meta name="author" content="anjay hapus credit">
     <meta name="language" content="Indonesia">
-    <meta name="description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2024.">
+    <meta name="description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2022.">
     <meta name="keywords" content="anjay hapus credit,undangan,pernikahan,online,website,wedding,invitation">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@anjay hapus credit">
     <meta name="twitter:creator" content="@anjay hapus credit">
     <meta property="og:url" content="https://demo.anjay hapus credit.com">
     <meta property="og:title" content="Yoga &amp; Fatikha Wedding">
-    <meta property="og:description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2024.">
+    <meta property="og:description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2022.">
     <meta property="og:image" content="uploads/original/gallery/bg1.jpg">
     <meta property="og:image:alt" content="Yoga &amp; Fatikha Wedding Image">
     <title>Pernikahan Yoga &amp; Fatikha</title>
@@ -114,10 +114,10 @@
         <div class="title text-center">
             <div data-aos="fade-up" data-aos-delay="200">
                 <!-- <img class="mb-3" src="themes/twelve/images/content/flower-2.png" width="250"> -->
-                <h3>Hai, kita nikah loh.. </h3>
+                <h3>Bismillahirrahmanirrahim </h3>
                 <br>
                 <br>
-                <h2>- Kuy lihat detail lengkapnya -</h2>
+                <h2>- Pernikahan Yoga & Fatikha -</h2>
                 <br><br>
                 <button type="button" class="btn btn-lg btn-light btn-wedding open_invitation px-5">Buka Undangan</button>
             </div>
@@ -363,28 +363,28 @@
             <div class="col-lg-12">
                 <div class="row">
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="100">
-                        <a href="uploads/original/gallery/bg1.jpg"><img src="uploads/original/gallery/bg1.jpg" alt="Gallery 1" class="img-fluid"></a>
-                    </div>
-                    <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="200">
                         <a href="uploads/original/gallery/1.jpg"><img src="uploads/original/gallery/1.jpg" alt="Gallery 2" class="img-fluid"></a>
                     </div>
+                    <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="200">
+                        <a href="uploads/original/gallery/2.jpg"><img src="uploads/original/gallery/2.jpg" alt="Gallery 2" class="img-fluid"></a>
+                    </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="300">
-                        <a href="uploads/original/gallery/2.jpg"><img src="uploads/original/gallery/2.jpg" alt="Gallery 3" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/3.jpg"><img src="uploads/original/gallery/3.jpg" alt="Gallery 3" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="400">
-                        <a href="uploads/original/gallery/3.jpg"><img src="uploads/original/gallery/3.jpg" alt="Gallery 4" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/4.jpg"><img src="uploads/original/gallery/4.jpg" alt="Gallery 4" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="500">
-                        <a href="uploads/original/gallery/4.jpg"><img src="uploads/original/gallery/4.jpg" alt="Gallery 5" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/5.jpg"><img src="uploads/original/gallery/5.jpg" alt="Gallery 5" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="600">
-                        <a href="uploads/original/gallery/5.jpg"><img src="uploads/original/gallery/5.jpg" alt="Gallery 6" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/6.jpg"><img src="uploads/original/gallery/6.jpg" alt="Gallery 6" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="700">
-                        <a href="uploads/original/gallery/6.jpg"><img src="uploads/original/gallery/6.jpg" alt="Gallery 7" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/7.jpg"><img src="uploads/original/gallery/7.jpg" alt="Gallery 7" class="img-fluid"></a>
                     </div>
                     <div class="col-md-3 col-6 py-2 px-2 frame" data-aos="zoom-in" data-aos-delay="800">
-                        <a href="uploads/original/gallery/7.jpg"><img src="uploads/original/gallery/7.jpg" alt="Gallery 8" class="img-fluid"></a>
+                        <a href="uploads/original/gallery/8.jpg"><img src="uploads/original/gallery/8.jpg" alt="Gallery 8" class="img-fluid"></a>
                     </div>
                 </div>
             </div>
