@@ -144,7 +144,7 @@
                 <p> <?= $lokasi ?> </p>
             </div>
         </div>
-        <img class="img" src="uploads/original/gallery/bareng1.jpg">
+        <img class="img" src="uploads/original/gallery/bg2.jpg">
     </section>
 
 
@@ -547,6 +547,18 @@
                         </div>
                         <div class="col-4">
                             <img src="images/payment/dana.jpg" alt="Bank " style="width:100%;margin-top:25px">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col-8">
+                            <b>Shopee Pay </b><br>
+                            <span onclick='copyText(this)'>08882775408 <img src="images/copy.png" style="height:13px;margin-top:-5px;cursor:pointer"></span><br>
+                            a/n fatikha.shop <br>
+
+                        </div>
+                        <div class="col-4">
+                            <img src="images/payment/shopee.png" alt="Bank " style="width:100%;margin-top:25px">
                         </div>
                     </div>
 
