@@ -8,14 +8,14 @@
     <!-- <link rel="shortcut icon" href="images/favicon.png"> -->
     <link rel="canonical" href="index.htm">
     <meta name="title" content="Yoga &amp; Fatikha Wedding">
-    <meta name="author" content="anjay hapus credit">
+    <meta name="author" content="https://yogafatikhawedding.my.id/">
     <meta name="language" content="Indonesia">
     <meta name="description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2022.">
-    <meta name="keywords" content="anjay hapus credit,undangan,pernikahan,online,website,wedding,invitation">
+    <meta name="keywords" content="https://yogafatikhawedding.my.id/,undangan,pernikahan,online,website,wedding,invitation">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@anjay hapus credit">
-    <meta name="twitter:creator" content="@anjay hapus credit">
-    <meta property="og:url" content="https://demo.anjay hapus credit.com">
+    <meta name="twitter:site" content="@https://yogafatikhawedding.my.id/">
+    <meta name="twitter:creator" content="@https://yogafatikhawedding.my.id/">
+    <meta property="og:url" content="https://yogafatikhawedding.my.id/">
     <meta property="og:title" content="Yoga &amp; Fatikha Wedding">
     <meta property="og:description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2022.">
     <meta property="og:image" content="uploads/original/gallery/bg1.jpg">
@@ -433,73 +433,12 @@
                         </script>
                         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-                        <!-- <form method="POST" action="https://demo.anjay hapus credit.com/send/3">
-                            <input type="hidden" name="_token" value="5WYj3N2MOuqrDjczb9mAPKwHSOGaCAzGCMuVysno">
-                            <div class="form-group">
-                                <label for="guestName">Nama</label>
-                                <input type="text" class="form-control" id="guestName" name="name" value="Prof. Supardi MM" placeholder="Your Name" readonly="" autocomplete="off">
-                            </div>
-                            <div class="form-group">
-                                <label for="attendance">Kedatangan</label>
-                                <select class="form-control" id="attendance" name="attendance">
-                                    <option value="1">Hadir</option>
 
-                                    <option value="3">Tidak Hadir</option>
-                                </select>
-                            </div>
-                            <div class="form-group">
-                                <label for="message">Pesan/Doa</label>
-                                <textarea class="form-control" id="message" name="message" rows="3" required=""></textarea>
-                            </div>
-                            <div class="text-center">
-                                <button type="submit" class="btn btn-light btn-wedding">Kirim <img src="images/send-b.png" alt="send icon" style="width:20px;margin-left:5px"></button>
-                            </div>
-                        </form>
-                        <hr>
-
-                        <div class="show-guest-book">
-
-                            <div class="row justify-content-md-center">
-                                <div class="col-md-12 mb-3">
-                                    <div class="media px-3 media-comment">
-                                        <img class="rounded-circle mr-3 d-none d-sm-block d-md-block d-lg-block" src="api/index.htm?name=syahrul-ansyari&size=50&background=bf616b&color=ffffff" alt="Image Avatar">
-                                        <div class="media-body">
-                                            <div class="mb-2">
-                                                <h5 class="h6 mb-0 text-secondary">Syahrul Ansyari</h5>
-                                                <small class="text-muted">08 March 2021 17:03</small>
-                                            </div>
-
-                                            <p>Selamat ma broo, akhirnya menikah juga. Semoga menjadi keluarga yang sakinah, mawadah, warahmah. Aamiin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- <div class="show-guest-book px-2 mt-5">
-            <div class="container text-left shadow">
-                <div class="row justify-content-md-center">
-                    <div class="col-md-12 mb-3">
-                        <div class="media px-3 media-comment">
-                            <img class="rounded-circle mr-3 d-none d-sm-block d-md-block d-lg-block" src="api/index.htm?name=syahrul-ansyari&size=50&background=bf616b&color=ffffff" alt="Image Avatar">
-                            <div class="media-body">
-                                <div class="mb-2">
-                                    <h5 class="h6 mb-0 text-secondary">Syahrul Ansyari</h5>
-                                    <small class="text-muted">08 March 2021 17:03</small>
-                                </div>
-
-                                <p>Selamat ma broo, akhirnya menikah juga. Semoga menjadi keluarga yang sakinah, mawadah, warahmah. Aamiin.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </section>
 
     <div style="height:50px;width:60px;position: absolute;bottom:0;z-index:-1;visibility: hidden;">
