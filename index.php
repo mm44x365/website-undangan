@@ -144,7 +144,7 @@
                 <p> <?= $lokasi ?> </p>
             </div>
         </div>
-        <img class="img" src="uploads/original/gallery/bg2.jpg">
+        <img class="img" src="uploads/original/gallery/bg1.jpg">
     </section>
 
 
