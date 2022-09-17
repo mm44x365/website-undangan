@@ -501,7 +501,7 @@
                         </div>
                     </div>
 
-                    <hr>
+                    <!-- <hr>
                     <div class="row">
                         <div class="col-8">
                             <b>All Bank via Saweria </b><br>
@@ -512,7 +512,7 @@
                         <div class="col-4">
                             <img src="images/payment/saweria.jpg" alt="Bank " style="width:100%;margin-top:25px">
                         </div>
-                    </div>
+                    </div> -->
 
                     <hr>
                     <div class="row">
