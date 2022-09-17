@@ -7,20 +7,20 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- <link rel="shortcut icon" href="images/favicon.png"> -->
     <link rel="canonical" href="index.htm">
-    <meta name="title" content="Yoga &amp; Fatikha Wedding">
+    <meta name="title" content="Yoga dan Fatikha Wedding">
     <meta name="author" content="https://yogafatikhawedding.my.id/">
     <meta name="language" content="Indonesia">
-    <meta name="description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2022.">
+    <meta name="description" content="Yoga dan Fatikha are getting married on Sunday, 24 September 2022.">
     <meta name="keywords" content="https://yogafatikhawedding.my.id/,undangan,pernikahan,online,website,wedding,invitation">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@https://yogafatikhawedding.my.id/">
     <meta name="twitter:creator" content="@https://yogafatikhawedding.my.id/">
     <meta property="og:url" content="https://yogafatikhawedding.my.id/">
-    <meta property="og:title" content="Yoga &amp; Fatikha Wedding">
-    <meta property="og:description" content="Yoga &amp; Fatikha are getting married on Sunday, 24 September 2022.">
+    <meta property="og:title" content="Yoga dan Fatikha Wedding">
+    <meta property="og:description" content="Yoga dan Fatikha are getting married on Sunday, 24 September 2022.">
     <meta property="og:image" content="uploads/original/gallery/bg1.jpg">
-    <meta property="og:image:alt" content="Yoga &amp; Fatikha Wedding Image">
-    <title>Pernikahan Yoga &amp; Fatikha</title>
+    <meta property="og:image:alt" content="Yoga dan Fatikha Wedding Image">
+    <title>Pernikahan Yoga dan Fatikha</title>
     <link rel="stylesheet" href="ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="ajax/libs/simplelightbox/1.17.3/simplelightbox.min.css">
     <link rel="stylesheet" href="aos%402.3.1/dist/aos.css">
