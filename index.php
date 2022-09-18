@@ -10,14 +10,14 @@
     <meta name="title" content="Yoga dan Fatikha Wedding">
     <meta name="author" content="https://yogafatikhawedding.my.id/">
     <meta name="language" content="Indonesia">
-    <meta name="description" content="Yoga dan Fatikha are getting married on Sunday, 24 September 2022.">
+    <meta name="description" content="Yoga dan Fatikha | Sabtu, 24 September 2022.">
     <meta name="keywords" content="https://yogafatikhawedding.my.id/,undangan,pernikahan,online,website,wedding,invitation">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@https://yogafatikhawedding.my.id/">
     <meta name="twitter:creator" content="@https://yogafatikhawedding.my.id/">
     <meta property="og:url" content="https://yogafatikhawedding.my.id/">
     <meta property="og:title" content="Yoga dan Fatikha Wedding">
-    <meta property="og:description" content="Yoga dan Fatikha are getting married on Sunday, 24 September 2022.">
+    <meta property="og:description" content="Yoga dan Fatikha | Sabtu, 24 September 2022.">
     <meta property="og:image" content="uploads/original/gallery/bg1.jpg">
     <meta property="og:image:alt" content="Yoga dan Fatikha Wedding Image">
     <title>Pernikahan Yoga dan Fatikha</title>
